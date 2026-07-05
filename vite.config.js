@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig(() => {
   return {
+    base: './', // Generates relative asset paths so it runs flawlessly on any hosting subdirectory (e.g., GitHub Pages) or custom domain
     plugins: [
       react(),
       tailwindcss(),

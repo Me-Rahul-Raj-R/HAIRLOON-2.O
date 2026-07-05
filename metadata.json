@@ -1,0 +1,6 @@
+{
+  "name": "Hairloon",
+  "description": "An AI-powered luxury hairstyle recommendation engine and salon booking platform powered by Gemini computer vision.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

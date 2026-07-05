@@ -1,5 +1,7 @@
 # ✂️ Hairloon — AI-Powered Face Shape & Hairstyle Architect
 
+🚀 **Live Site:** [https://me-rahul-raj-r.github.io/HAIRLOON-2.O/](https://me-rahul-raj-r.github.io/HAIRLOON-2.O/)
+
 Hairloon is an immersive, high-fidelity luxury web application integrating **Autonomous Multi-Agent Computer Vision** and real-time **RAG (Retrieval-Augmented Generation) classification** to analyze biometric face structures and recommend optimal hairstyles.
 
 ## 🌟 Core Innovations
